@@ -15,4 +15,4 @@ web: npm start || yarn start
 
 
 
-# Creator: SUHAIL TEC
+# Creator: SUHAIL TECH
