@@ -55,7 +55,7 @@
 "group": "This feature is only for Group ❗",
 "private": "This feature is only for Private chats.⚠️",
 "bot": "This feature is only for Bot Number.⚠️",
-"wait": "*Processing Your Request* "
+"wait": "*Processing Your Request*✅ "
 },
 "error": {
 "text": "Task Terminated"
