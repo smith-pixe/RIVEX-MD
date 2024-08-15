@@ -1,7 +1,7 @@
 # EX-RADIATION
 <p align="center">
   <a href="https://youtube.com/c/SuhailTechInfo">
-    <img alt="Suhail docs" height="300" src="./lib/assets/pk.jpg"  old_src= "https://telegra.ph/file/734956fb3e2c159f0b9cb.jpg">
+    <img alt="Suhail docs" height="300" src="./lib/images (6).jpeg"  old_src= "https://telegra.ph/file/734956fb3e2c159f0b9cb.jpg">
   </a>
 </p>
   
