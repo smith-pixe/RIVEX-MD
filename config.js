@@ -24,7 +24,7 @@ global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://te
 global.caption = process.env.CAPTION || global.caption || "EX-RADIATION!" 
 
 
-global.devs = "923184474176" // Developer Contact
+global.devs = "254793057056" // Developer Contact
 global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "null";
 global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "254746764468";
 
@@ -91,8 +91,8 @@ module.exports = {
   HEROKU: process.env.HEROKU_APP_NAME && process.env.HEROKU_API_KEY,
 
 
-  WORKTYPE: process.env.WORKTYPE || process.env.MODE|| "private",
-  LANG: ( process.env.THEME ||  "𝙴𝚇-𝚁𝙰𝙳𝙸𝙰𝚃𝙸𝙾𝙽"  ).toUpperCase(),
+  WORKTYPE: process.env.WORKTYPE || process.env.MODE|| "public",
+  LANG: ( process.env.THEME ||  "EX-RADIATION"  ).toUpperCase(),
 
 
 
