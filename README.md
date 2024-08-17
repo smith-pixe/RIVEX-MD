@@ -8,7 +8,7 @@
    
 <p align="center">
 
-  <a aria-label="Join our chats" href="https://wa.me/+254702713600" target="_blank">
+  <a aria-label="WHATSAPP ME" href="https://wa.me/+254702713600" target="_blank">
     <img alt="telegram" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
  
