@@ -16,7 +16,7 @@
 
 
 
- <p align="center"><img src="https://profile-counter.glitch.me/{suhail-whatsapp-bot}/count.svg" alt="SuhailTechInfo :: Visitor's Count" old_src="https://profile-counter.glitch.me/{SuhailTechInfo}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{EX-RADIATION}/count.svg" alt="kingdragonyInfo :: Visitor's Count" old_src="https://profile-counter.glitch.me/{KingdragonyInfo}/count.svg" /></p>
 
 
   <p align="center"> Meet GREAT-EMPEROR, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. EX-RADIATION whatsapp bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖 </p
