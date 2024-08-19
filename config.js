@@ -17,16 +17,16 @@ global.blockJids= process.env.BLOCK_JID || "null"
 global.DATABASE_URL = process.env.DATABASE_URL || ""
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Asia/Karachi";
-global.github=process.env.GITHUB|| "https://github.com/Kingdragony/GREAT-EMPEROR";
-global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q";
-global.website=process.env.GURL || "https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q" ; 
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/734956fb3e2c159f0b9cb.jpg" || "https://github.com/SuhailTechInfo/Suhail-Md/blob/main/lib/images (6).jpeg?raw=true" ; // SET LOGO FOR IMAGE 
-global.caption = process.env.CAPTION || global.caption || "EX-RADIATION!" 
+global.github=process.env.GITHUB|| "https://github.com/smith-pixe/RIVEX-MD";
+global.gurl  =process.env.GURL  || "https://chat.whatsapp.com/DvlAsj0BhA5FgQS7LARxBo";
+global.website=process.env.GURL || "https://chat.whatsapp.com/DvlAsj0BhA5FgQS7LARxBo" ; 
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/3a71e89ed186e4b75352e.jpg" || "https://github.com/SuhailTechInfo/Suhail-Md/blob/main/lib/images (6).jpeg?raw=true" ; // SET LOGO FOR IMAGE 
+global.caption = process.env.CAPTION || global.caption || "𝑷𝑶𝑾𝑬𝑹𝑬𝑫 𝑩𝒀 𓀬C̥ͦo̥ͦl̥ͦl̥ͦi̥ͦn̥ͦs̥ͦ𓅓-𝑴𝑫ᵗᵉᶜʰ!" 
 
 
-global.devs = "254793057056" // Developer Contact
+global.devs = "254752588323" // Developer Contact
 global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "null";
-global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "254746764468";
+global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "254752588323";
 
 
 
@@ -37,13 +37,13 @@ global.flush = process.env.FLUSH   || "false"; // Make it "true" if bot not resp
 global.gdbye = process.env.GOODBYE || process.env.CAN_GOODBYE || "false"; 
 global.wlcm  = process.env.WELCOME || process.env.CAN_WELCOME || Math.floor(Math.random()*3)  === 1 ?  "true" : "false" ;  // Make it "false" for disable WELCOME 
 
-global.warncount = process.env.WARN_COUNT || 3
+global.warncount = process.env.WARN_COUNT || 1
 global.disablepm = process.env.DISABLE_PM || "false"
 global.disablegroup = process.env.DISABLE_GROUPS || "false", // disable bot in groups when public mode
 
 global.MsgsInLog = process.env.MSGS_IN_LOG|| "false" // "true"  to see messages , "log" to show logs , "false" to hide logs messages
-global.userImages= process.env.USER_IMAGES || "https://telegra.ph/file/734956fb3e2c159f0b9cb.jpg" // "text" // set Image/video urls here
-global.waPresence= process.env.WAPRESENCE ||  "recording" ; // 'unavailable' | 'available' | 'composing' | 'recording' | 'paused'
+global.userImages= process.env.USER_IMAGES || "https://telegra.ph/file/3a71e89ed186e4b75352e.jpg" // "text" // set Image/video urls here
+global.waPresence= process.env.WAPRESENCE ||  "unavailable" ; // 'unavailable' | 'available' | 'composing' | 'recording' | 'paused'
 
 
 //========================= [ AUTO READ MSGS & CMDS ] =========================\\
@@ -72,12 +72,12 @@ module.exports = {
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "1.0.1-developement-x",
-  caption : global.caption || "" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
+  caption : global.caption || "" , // ```『 𝑷𝑶𝑾𝑬𝑹𝑬𝑫 𝑩𝒀 𓀬C̥ͦo̥ͦl̥ͦl̥ͦi̥ͦn̥ͦs̥ͦ𓅓-𝑴𝑫ᵗᵉᶜʰ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
  
   author : process.env.PACK_AUTHER|| "",
   packname: process.env.PACK_NAME || "",
-  botname : process.env.BOT_NAME  || "EX-RADIATION",
-  ownername:process.env.OWNER_NAME|| "DRAGON",
+  botname : process.env.BOT_NAME  || "𝑹𝑰𝑽𝑬𝑿-𝑴𝑫",
+  ownername:process.env.OWNER_NAME|| "𓀬C̥ͦo̥ͦl̥ͦl̥ͦi̥ͦn̥ͦs̥ͦ𓅓",
 
 
   errorChat : process.env.ERROR_CHAT || "",
@@ -92,7 +92,7 @@ module.exports = {
 
 
   WORKTYPE: process.env.WORKTYPE || process.env.MODE|| "public",
-  LANG: ( process.env.THEME ||  "EX-RADIATION"  ).toUpperCase(),
+  LANG: ( process.env.THEME ||  "RIVEX-MD"  ).toUpperCase(),
 
 
 
