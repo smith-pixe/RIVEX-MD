@@ -11,7 +11,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",    
-      "value": "TIGER",
+      "value": "𓀬C̥ͦo̥ͦl̥ͦl̥ͦi̥ͦn̥ͦs̥ͦ𓅓ᵗᵉᶜʰ",
       "required" :true
     },   
      
@@ -29,12 +29,12 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "EX-RADIATION"
+      "value": "RIVEX-MD"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required" :false,    
-      "value": "Asia/Karachi"
+      "value": "Africa/Nairobi"
     },  
     "FLUSH": {
       "description": " Make it 'true' if bot connected but not responed (After deployement!)",
@@ -44,7 +44,7 @@
     "WARN_COUNT": {
       "description": " Warn count for users to kick/block when warn limit exceed!",
       "required" :false,    
-      "value": "3"
+      "value": "1"
     },
     "HEROKU_API_KEY": {
       "description": "Put Your Heroku Api Key Here",
@@ -67,7 +67,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "254793057056"
+      "value": "254752588323"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -91,11 +91,11 @@
     },
     "MODE": {
       "description": "Worktype of your bot. Use public/private, if private then only bot number can use it. If public then everyone can use it.",
-      "value": "public"
+      "value": "private"
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "EX-RADIATION",
+      "value": "RIVEX-MD",
       "required": false 
     },
     "PACK_AUTHER": {
