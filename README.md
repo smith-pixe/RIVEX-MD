@@ -1,7 +1,7 @@
 # 𝐑𝐈𝐕𝐄𝐗-𝐌𝐃
 <p align="center">
   <a href="https://youtube.com/c/SuhailTechInfo">
-    <img alt="Suhail docs" height="300" src="./lib/deden.pdf"  old_src= "https://telegra.ph/file/3a71e89ed186e4b75352e.jpg">
+    <img alt="Suhail docs" height="300" src="./lib/lib/IMG_COM_202408191533202270.jpeg"  old_src= "https://telegra.ph/file/3a71e89ed186e4b75352e.jpg">
   </a>
 </p>
   
